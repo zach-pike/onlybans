@@ -1,0 +1,15 @@
+{
+  "name": "onlybans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest ."
+  }
+}
